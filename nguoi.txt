@@ -1,0 +1,6 @@
+hung, 18,      nam,      sdt
+hung, 18,     nam,     sdt
+hung, 18,    nam,    sdt
+hung, 18,   nam,   sdt
+hung, 18,  nam,  sdt
+hung, 18, nam, sdt
