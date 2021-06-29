@@ -1,4 +1,4 @@
-package src.baiTap;
+package baiTap;
 
 import baiTap.Nguoi;
 
